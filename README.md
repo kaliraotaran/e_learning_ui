@@ -1,16 +1,15 @@
 # e_learning_ui
 
-A new Flutter project.
+![image](https://github.com/kaliraotaran/e_learning_ui/assets/81376236/52ba13a8-8b77-4892-943d-d19df88d18bb)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/kaliraotaran/e_learning_ui/assets/81376236/40bbb84d-acf0-420c-b17d-407f9d903281)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/kaliraotaran/e_learning_ui/assets/81376236/edf6531e-ece5-4829-9faa-e61c2f4b730f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![image](https://github.com/kaliraotaran/e_learning_ui/assets/81376236/f72b94f4-cb0f-46f3-97db-0de23d23b9a0)
+
+
